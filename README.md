@@ -6,7 +6,7 @@ A simple and customizable EMI (Equated Monthly Installment) calculator plugin fo
 
 For a quick demonstration of the plugin in action, check out this video:
 
-[<img src="https://img.youtube.com/vi/your_video_id/0.jpg">](https://youtu.be/your_video_id)
+[<img src="https://img.youtube.com/vi/-VkE_3DQHoY/0.jpg">](https://www.youtube.com/watch?v=-VkE_3DQHoY)
 
 ## Features
 
